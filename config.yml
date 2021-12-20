@@ -1,0 +1,7 @@
+RTSP_Address: rtsp://192.168.137.97/h265
+cobot_coords:
+- - 539
+  - 543
+working_radius: 259
+# 0.82m / 294 pixels
+distFactor: 0.002789116
